@@ -1,5 +1,4 @@
 ##获取验证码的button计时器
-试试这个是搞毛的
 
 ---
 #LYButtonTimer
