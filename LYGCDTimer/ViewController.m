@@ -22,6 +22,9 @@
     [super viewDidLoad];
 
     self.button = [UIButton buttonWithType:UIButtonTypeCustom];
+    self.button.layer.cornerRadius = 4;
+    self.button.layer.borderWidth = 1;
+    self.button.layer.borderColor = [UIColor grayColor].CGColor;
     self.button.frame = CGRectMake(100, 100, 90, 30);
     self.button.backgroundColor = [UIColor blueColor];
     [self.button addTarget:self action:@selector(buttonAction:) forControlEvents:UIControlEventTouchUpInside];
