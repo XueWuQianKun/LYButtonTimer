@@ -3,7 +3,7 @@
 ---
 #LYButtonTimer
 -----------
-> 关于本人，屌丝一枚
+> Sunshine_ly
     
 ### 简单用法
 ``` xml
